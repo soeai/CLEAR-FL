@@ -1,0 +1,22 @@
+# _config.yml
+title: Transparency and Explainability of Federated Learning
+description: Cost-aware Learning with Explainable Adaptive Results - Federated Learning
+theme: jekyll-theme-cayman
+# Hoặc chọn theme khác:
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-architect
+
+# SEO settings
+author: Tien-Dung Cao
+email: dung.cao@ttu.edu.vn
+
+# Repository information
+github_username: soeai
+repository: soeai/CLEAR-FL
+
+# Navigation
+show_downloads: true
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
